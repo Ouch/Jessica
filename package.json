@@ -1,0 +1,26 @@
+{
+  "name": "jessica",
+  "version": "1.0.0",
+  "description": "note taking application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarlaRosten/Jessica.git"
+  },
+  "keywords": [
+    "note",
+    "notes",
+    "note",
+    "taking",
+    "jessica"
+  ],
+  "author": "Tarla Rosten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarlaRosten/Jessica/issues"
+  },
+  "homepage": "https://github.com/TarlaRosten/Jessica#readme"
+}
