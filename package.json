@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/TarlaRosten/Jessica/issues"
   },
-  "homepage": "https://github.com/TarlaRosten/Jessica#readme"
+  "homepage": "https://github.com/TarlaRosten/Jessica#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
