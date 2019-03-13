@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TarlaRosten/Jessica.git"
+    "url": "git+https://github.com/Ouch/Jessica.git"
   },
   "keywords": [
     "note",
@@ -20,9 +20,9 @@
   "author": "Tarla Rosten",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TarlaRosten/Jessica/issues"
+    "url": "https://github.com/Ouch/Jessica/issues"
   },
-  "homepage": "https://github.com/TarlaRosten/Jessica#readme",
+  "homepage": "https://github.com/Ouch/Jessica#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
